@@ -8,10 +8,10 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters
 
 # Константы
-CHANNEL_ID = '@renderlog'  # ID канала, куда бот отправляет ответы
-TOKEN = '7074887613:AAGy9m5TNMC85e5Q2YAYx0_-yi3Zu8wrVL4'  #@Melict_bot 
-assistantId='asst_tpHbde7Zt71VLPdongAZae1f'  # @Melict_bot
-OPENAI_API_KEY = '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' #@Melict_bot
+CHANNEL_ID = ''  # ID канала, куда бот отправляет ответы
+TOKEN = ''  #@Melict_bot 
+assistantId=''  # @Melict_bot
+OPENAI_API_KEY = '' #@Melict_bot
 
 
 # Настройка логирования
